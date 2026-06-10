@@ -1,0 +1,6 @@
+Project notes:
+- Write the automation script
+- Read sample data from a file
+- Generate a report automatically
+
+Remember to keep the code clean and easy to test.

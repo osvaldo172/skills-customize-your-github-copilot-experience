@@ -72,6 +72,25 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-automation-file-handling",
+      "title": "Python Automation and File I/O",
+      "description": "Read and write files in Python to automate text processing and report generation.",
+      "path": "assignments/python-automation-file-handling",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Notes",
+          "file": "sample-notes.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
